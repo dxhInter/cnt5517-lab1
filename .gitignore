@@ -1,0 +1,21 @@
+/.idea
+/target
+/out
+*.iws
+*.iml
+*.ipr
+
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+*.class
+
+*.jar
+*.war
+*.zip
+*.rar
+*.tar.gz
